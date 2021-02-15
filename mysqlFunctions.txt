@@ -1,0 +1,1 @@
+Create TABLE pokemon(Numer int primary key,Nazwa varchar(50),Typ_1 varchar(50),Typ_2 varchar(50),Total int,HP int,Atak int ,Obrona int,Sp_Atk int ,Sp_Obr int,Speed int ,Generation int ,Legendary varchar(50))
