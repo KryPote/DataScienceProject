@@ -1,4 +1,4 @@
-﻿Numer,Nazwa,Typ,Typ_2,Total,HP,Atak,Obrona,Sp_Atk,Sp_Obr,Speed,Generation,Legendary
+﻿Numer,Nazwa,Typ,Typ_2,Total,HP,Atak,Obrona,SpAtk,SpObr,Speed,Generation,Legendary
 1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,False
 3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,1,False
